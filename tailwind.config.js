@@ -4,9 +4,10 @@ module.exports = {
     extend: { 
       fontFamily: {
       Poppins: "Poppins",
+      gloria: ['Gloria Hallelujah'],
     },
       colors: {
-        yellow: '#F6D215'
+        yellow: '#D99F23'
       },
      
     },
