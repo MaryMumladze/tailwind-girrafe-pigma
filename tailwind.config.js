@@ -7,7 +7,8 @@ module.exports = {
       gloria: ['Gloria Hallelujah'],
     },
       colors: {
-        yellow: '#D99F23'
+        yellow: '#D99F23',
+        background: ' #1E212C'
       },
      
     },
